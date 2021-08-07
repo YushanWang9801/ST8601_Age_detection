@@ -5,7 +5,9 @@ Automatic age classification has become relevant to an increasing amount of appl
 In this research project we are examining different deep-Convolutional Neural Networks and focusing on the performance of them. By examining the CNN architecture that was developed by Gil Levi and Tal Hassner, we gathered knowledge on their 3-layer fully connected convolutional neural network. We acknowledged that they are assuming their input images would contain faces, thus producing a somewhat not satisfying level of accuracy. 
 By examing other's Convolutional Neural Networks and tuning Gil and Tal's model, we were able to construct our own model which could slightly outperform theirs. Furthermore, we were able to develop the model through a webcam, which could be used in real-time age classification. 
 
-### Video Demo age detection (Coming Up)
+### Video Demo age detection
+
+![Demo Here](report/demo.gif)
 
 
 ### Report and detailed Introduction to this report can be accessed the following link.
