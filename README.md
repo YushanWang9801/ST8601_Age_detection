@@ -8,6 +8,12 @@ By examing other's Convolutional Neural Networks and tuning Gil and Tal's model,
 ### Video Demo age detection (Coming Up)
 
 
+### Report and detailed Introduction to this report can be accessed the following link.
+
+Full Report: https://yushan1089.github.io/file/Age_Classification.pdf
+
+Presentation: https://yushan1089.github.io/file/ageclassificationpresentation.pdf 
+
 ### Requirment
 There are several things need to be installed to run the code of this project.
 
