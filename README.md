@@ -19,6 +19,7 @@ Webcam or other camera are preferred when using the code.
 
 Use the below code to check if your PC or laptop has a GPU or not. If not, or memory is not sufficient, try to increase the batch size during training.
 > import tensorflow as tf
+>
 > print("Num GPUs Available: ", len(tf.config.experimental.list_physical_devices('GPU')))
 
 ### Instructions
